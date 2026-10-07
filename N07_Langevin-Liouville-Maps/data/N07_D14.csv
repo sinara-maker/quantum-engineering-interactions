@@ -1,0 +1,10 @@
+description,natural_object,best_suited_to,information_that_must_be_carried
+Small rotation / normal modes,transformed Hamiltonian,hybridization and dispersive shifts,transformed bath couplings and observables
+Heisenberg-Langevin,operator drift plus input noise,"response, spectra, emitted fields",noise correlations and input/output convention
+GKLS master equation,density-operator generator,reduced states and observables,microscopic validity of Hamiltonian and jumps
+Gaussian map,"(X,Y) on first and second moments",linear bosonic networks,complete positivity and uncertainty conditions
+Projection / Liouville resolvent,(z-Q L Q)^(-1),slow poles and elimination,"retained space, fast gap, memory scale"
+Dissipative Schrieffer-Wolff,block-diagonal Liouvillian,systematic slow generator,dressed jumps and inverse transformation
+Magnus / James-Jerke,averaged or filtered generator,periodic/coarse-grained dynamics,"noise harmonics, boundary terms, reconstruction"
+Floquet,quasienergy generator,periodically driven systems,micromotion and periodically transformed bath/output fields
+Input-output theory,incoming and outgoing fields,experimentally measured radiation,"port phases, normalization, and bath state"

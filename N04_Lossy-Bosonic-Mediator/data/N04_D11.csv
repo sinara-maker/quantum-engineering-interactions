@@ -1,0 +1,7 @@
+quantity,value
+thermal_bath_mean_occupation,0.2
+initial_mediator_occupation,0.19935691318327975
+final_mediator_occupation,0.1996067603115023
+max_error_correct_thermal_reduction,0.01097469795758453
+max_error_using_vacuum_reduction,0.09937057357573681
+thermal_encoding_improvement_factor,9.054515573894458

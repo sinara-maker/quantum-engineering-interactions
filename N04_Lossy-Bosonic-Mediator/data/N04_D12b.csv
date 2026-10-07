@@ -1,0 +1,5 @@
+quantity,value
+conditional_EP_G,1.0
+liouvillian_geometric_mult_at_minus_kappa_over_4,2.0
+liouvillian_geometric_mult_at_minus_kappa_over_2,2.0
+expected_algebraic_mult_each_repeated_liouvillian_eigenvalue,4.0

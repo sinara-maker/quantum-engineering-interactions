@@ -1,0 +1,15 @@
+check,value
+stable Gaussian drift,-0.043482081744495304
+Gaussian/master benchmark agreement,2.91087339794327e-05
+N=8 cutoff close to N=10,2.8675933609889626e-05
+state uncertainty condition,-5.828670879282072e-16
+Gaussian-channel CP condition,-6.543434970426511e-16
+noise restores commutator,0.0
+driven-cavity first moments agree,9.061599665072251e-08
+driven-cavity occupation agrees,6.473266600526273e-08
+Liouville vectorization convention,0.0
+finite-time Choi positivity,-3.3306690738754953e-16
+Choi trace equals Hilbert dimension,1.1102230246251565e-15
+fast pseudomode better than memory-bearing elimination,0.48270190471731084
+memory-bearing pseudomode significantly populated,0.3634460731559184
+output flux nonnegative,0.0

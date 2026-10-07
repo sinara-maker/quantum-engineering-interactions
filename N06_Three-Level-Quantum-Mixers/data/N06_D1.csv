@@ -1,0 +1,10 @@
+topology,identity,residual
+Lambda,"[ha.dag(),ha]",0.0
+Lambda,"[hb.dag(),hb]",0.0
+Lambda,"[ha.dag(),hb]",0.0
+V,"[ha.dag(),ha]",0.0
+V,"[hb.dag(),hb]",0.0
+V,"[ha.dag(),hb]",0.0
+Xi,"[ha.dag(),ha]",0.0
+Xi,"[hb.dag(),hb]",0.0
+Xi,"[ha.dag(),hb.dag()]",0.0

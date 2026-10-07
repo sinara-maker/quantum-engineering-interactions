@@ -1,0 +1,18 @@
+check,value
+Rabi parity conservation,0.0
+Rabi excitation number not conserved,571.361606407839
+short-time coherent-state coefficient,0.0023661197120605345
+e0 quadratic coefficient vanishes,0.0
+e0 later-time RWA difference,0.003910912890958129
+dispersive fourth-order slope,3.9934209223361723
+second-order JC energy remainder exponent,3.991792887806545
+fourth-order JC energy remainder exponent,5.98974511505358
+first-order mixing-angle remainder exponent,2.9901623285863383
+third-order mixing-angle remainder exponent,4.98829059884543
+weak-coupling JC subspace preferred,0.06048460732059002
+deep-coupling displaced subspace preferred,0.5499282737928057
+deep bare occupation approaches displacement scale,0.025691707168233213
+displaced occupation below bare occupation,3.8800827467579304
+ground detector signal vanishes by spectral definition,0.0
+N=60 to N=70 occupation convergence,4.884981308350689e-15
+N=60 to N=70 energy convergence,5.329070518200751e-15

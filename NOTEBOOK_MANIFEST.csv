@@ -1,0 +1,10 @@
+resource_id,title,relative_directory,ipynb,pdf
+N00,Companion Notebook Index,notebooks/N00_Companion-Notebook-Index,N00_Companion-Notebook-Index.ipynb,N00_Companion-Notebook-Index.pdf
+N01,Beyond-RWA Mediated Interactions,notebooks/N01_Beyond-RWA-Mediated-Interactions,N01_Beyond-RWA-Mediated-Interactions.ipynb,N01_Beyond-RWA-Mediated-Interactions.pdf
+N02,Spin-Chain Quantum Bus,notebooks/N02_Spin-Chain-Quantum-Bus,N02_Spin-Chain-Quantum-Bus.ipynb,N02_Spin-Chain-Quantum-Bus.pdf
+N03,Floquet-Controlled Tunnelling,notebooks/N03_Floquet-Controlled-Tunnelling,N03_Floquet-Controlled-Tunnelling.ipynb,N03_Floquet-Controlled-Tunnelling.pdf
+N04,Lossy Bosonic Mediator,notebooks/N04_Lossy-Bosonic-Mediator,N04_Lossy-Bosonic-Mediator.ipynb,N04_Lossy-Bosonic-Mediator.pdf
+N05,Three-Photon Rabi Resonance,notebooks/N05_Three-Photon-Rabi-Resonance,N05_Three-Photon-Rabi-Resonance.ipynb,N05_Three-Photon-Rabi-Resonance.pdf
+N06,Three-Level Quantum Mixers,notebooks/N06_Three-Level-Quantum-Mixers,N06_Three-Level-Quantum-Mixers.ipynb,N06_Three-Level-Quantum-Mixers.pdf
+N07,"Langevin, Liouville-Space, and Dynamical Maps",notebooks/N07_Langevin-Liouville-Maps,N07_Langevin-Liouville-Maps.ipynb,N07_Langevin-Liouville-Maps.pdf
+N08,Quantum Rabi Regime Map,notebooks/N08_Quantum-Rabi-Regime-Map,N08_Quantum-Rabi-Regime-Map.ipynb,N08_Quantum-Rabi-Regime-Map.pdf

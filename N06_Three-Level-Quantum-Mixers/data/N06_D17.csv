@@ -1,0 +1,4 @@
+check,value,expected
+dark_coupling_norm,0.0,0.0
+bright_coupling,0.6161168720299744,0.6161168720299746
+bright_dark_overlap,0.0,0.0

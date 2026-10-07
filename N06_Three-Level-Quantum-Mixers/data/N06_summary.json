@@ -1,0 +1,52 @@
+{
+  "qutip": "5.2.0",
+  "operator_residual": 0.0,
+  "invariant_residual": 0.0,
+  "rotation_residual": 0.0,
+  "lambda": {
+    "delta_corrected": -0.015080480515441367,
+    "Delta_b": 8.015080480515442,
+    "J": 0.022478832975387938,
+    "max_transfer_exact": 0.9995772306313772,
+    "max_transfer_effective": 0.9999996977433967,
+    "max_leakage": 0.015238845132298852,
+    "minimum_endpoint_fidelity": 0.9998568075426335,
+    "max_endpoint_trace_distance": 0.016922305122326495,
+    "max_atomic_entropy_bits": 1.0885989445341182
+  },
+  "v": {
+    "delta_corrected": -0.010052575627057142,
+    "J": -0.016264787478497442,
+    "max_transfer_exact": 0.999617377856417,
+    "max_transfer_effective": 0.9999996977433968,
+    "max_leakage": 0.010839863773484774,
+    "max_atomic_entropy_bits": 1.067039005398337
+  },
+  "xi": {
+    "delta_sum": 0.0,
+    "J": 0.015312499999999998,
+    "max_pair_probability_exact": 0.9999910579840972,
+    "max_pair_probability_effective": 0.9999996977433959,
+    "max_leakage": 0.0075407634937151155,
+    "max_mode_imbalance": 0.00754076349371513
+  },
+  "reconstruction": {
+    "rmse_slow": 0.006563523542038158,
+    "rmse_with_initial_layer": 0.0014685830224336464,
+    "max_error_slow": 0.011364450334976555,
+    "max_error_with_initial_layer": 0.003622338975618894
+  },
+  "resonance": {
+    "lambda_prediction": -0.015080480515441367,
+    "lambda_exact_peak": -0.015,
+    "lambda_complete_peak": -0.015,
+    "lambda_cross_peak": 0.0,
+    "xi_prediction": -0.012265001627632277,
+    "xi_exact_peak": -0.012000000000000004,
+    "xi_complete_peak": -0.012000000000000004,
+    "xi_cross_peak": 0.0
+  },
+  "spectral_slope": 3.9847344683235986,
+  "cutoff_error": 1.3100631690576847e-14,
+  "minimum_quadrature_variance": 0.2744058180481348
+}

@@ -1,0 +1,4 @@
+quantity,value
+steady_state_trace,1.0
+steady_state_excited_population,0.0
+liouvillian_gap,0.2

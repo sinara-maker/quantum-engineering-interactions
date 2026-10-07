@@ -1,0 +1,22 @@
+check,value
+trace preservation,2.220446049250313e-16
+Hermiticity preservation,0.0
+complete reduction accurate,0.009365696468599168
+Hamiltonian-only failure visible,0.7976632067040226
+dark-state annihilation,0.0
+dark-mixture concurrence,0.4999999999999999
+initial-layer reconstruction improves,85.1941281575807
+frequency-resolved model beats common response,True
+valid Kossakowski matrix PSD,-5.551115123125783e-17
+inconsistent Kossakowski matrix non-PSD,-1.5021854053652721
+valid finite-time map Choi positive,-7.194337396962257e-16
+inconsistent finite-time map Choi non-positive,-0.002163883219176684
+slow-pole weak-coupling slope near four,3.9999999766199097
+genuine bosonic cutoff improves,True
+correct thermal encoding beats reused vacuum model,True
+thermal reduction remains controlled,0.01097469795758453
+lossy-qubit saturation increases error,True
+conditional and Liouvillian EP peaks coincide in special model,0.0
+Liouvillian rank test shows defectiveness,True
+closing-gap regime fails more strongly,True
+Liouvillian dark-manifold zero modes,4

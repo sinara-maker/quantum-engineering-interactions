@@ -1,0 +1,6 @@
+quantity,value
+local_mixing_eta,0.125
+max_trace_distance_complete,0.009365696468599168
+max_trace_distance_hamiltonian_only,0.7976632067040226
+long_time_concurrence_full,0.49991642746769566
+max_mediator_population,0.008424561159250119

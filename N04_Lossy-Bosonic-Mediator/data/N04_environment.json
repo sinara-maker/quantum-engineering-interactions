@@ -1,0 +1,10 @@
+{
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "qutip": "5.2.0",
+  "numpy": "2.3.2",
+  "pandas": "3.0.6",
+  "matplotlib": "3.10.5",
+  "scienceplots": "installed",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "notebook": "N04"
+}
