@@ -1,0 +1,9 @@
+quantity,value
+abs_J_SR,0.0063999999999999856
+eta_max,0.07785991915741851
+cumulative_dressing,0.012799999999999971
+max_concurrence_exact,0.9971357052659117
+max_receiver_population_exact,0.9989931214665786
+max_bus_population,0.04895124294530811
+max_endpoint_trace_distance,0.05932511521315857
+profile_rmse,0.05986523857705285

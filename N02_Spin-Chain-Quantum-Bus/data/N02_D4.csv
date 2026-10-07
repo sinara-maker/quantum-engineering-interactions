@@ -1,0 +1,10 @@
+quantity,value
+selected_mode_index,3.0
+selected_mode_energy,8.881784197001252e-16
+spectral_isolation,0.9999999999999984
+max_concurrence_exact,0.9515455385227413
+max_concurrence_endpoint_only,0.9999958498115135
+max_concurrence_selected_mode,0.9623291861356436
+selected_mode_peak_population,0.41300482018368695
+concurrence_rmse_endpoint_only,0.41942389491202586
+concurrence_rmse_selected_mode,0.006961520575499599

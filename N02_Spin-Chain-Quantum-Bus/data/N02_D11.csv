@@ -1,0 +1,16 @@
+check,value
+excitation symmetry,0.0
+analytic spectrum,2.220446049250313e-15
+endpoint parity,0.0
+sector Hamiltonian projection,0.0
+sector dynamics,6.2666971611946565e-09
+dispersive bus occupation,0.04895124294530811
+dispersive endpoint distance,0.05932511521315857
+selected-mode repair,0.016597815861110577
+complex bright-dark convention,2.220446049250313e-16
+passive decay-matrix positivity,1.27999920000052e-05
+finite validity map,True
+closed transfer maxima interior,True
+selected mode wins at weak bus loss,0.009230811534482464
+dispersive protocol wins at strong bus loss,0.013054811463135585
+finite loss crossover,0.033763589453965556

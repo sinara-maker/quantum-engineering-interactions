@@ -1,0 +1,12 @@
+check,value
+exact frame transformation,3.7840582109059394e-15
+one-period unitarity,4.5013481830835644e-10
+leading quasienergy accuracy,0.005840616831773171
+Sambe cutoff improves,True
+Sambe M=6 accuracy,2.8832491949515315e-13
+finite-frequency motion at Bessel zero,0.04239365550689102
+fixed-window population error improves,True
+high-frequency stroboscopic improvement,True
+periodic frame improves continuous state,True
+periodic frame improves current,True
+equal-magnitude sign inversion changes odd-ring spectrum,True

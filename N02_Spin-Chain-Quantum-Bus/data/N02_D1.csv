@@ -1,0 +1,5 @@
+quantity,value
+spectrum_residual,2.220446049250313e-15
+mode_orthogonality_residual,9.651895355035332e-16
+endpoint_parity_residual,0.0
+excitation_commutator_norm,0.0
